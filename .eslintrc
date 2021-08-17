@@ -1,0 +1,14 @@
+{
+  "env": {
+    "commonjs": true,
+    "es2021": true,
+    "jest": true
+  },
+  "extends": ["airbnb-base", "eslint-config-prettier"],
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  },
+  "rules": {
+    "no-plusplus": ["error", {"allowForLoopAfterthoughts": true}]
+  }
+}

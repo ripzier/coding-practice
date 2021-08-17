@@ -1,0 +1,16 @@
+{
+  "name": "coding-practice",
+  "description": "Coding algorithms and data structures practice",
+  "author": "Rómulo Soliz",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.0",
+    "jest": "^27.0.6",
+    "prettier": "^2.3.2"
+  }
+}
